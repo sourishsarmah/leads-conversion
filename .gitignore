@@ -105,3 +105,6 @@ venv.bak/
 
 # Dataset
 Leads.csv
+
+# Result
+lead_prob.csv
